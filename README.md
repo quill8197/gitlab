@@ -4,3 +4,4 @@ Git with others. Collaborate and listen.
 
 * Alex
 * Bob
+* Yanni
