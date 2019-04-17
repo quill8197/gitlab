@@ -1,8 +1,5 @@
 # gitlab
 Git with others. Collaborate and listen.
-# level 1 heading
-## level 2 heading
+## Team
 
-* Alpha
-* Bravo
-* Charlie
+* Alex
